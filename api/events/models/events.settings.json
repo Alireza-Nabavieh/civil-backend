@@ -22,14 +22,8 @@
     "venue": {
       "type": "string"
     },
-    "address": {
-      "type": "text"
-    },
     "date": {
       "type": "date"
-    },
-    "time": {
-      "type": "string"
     },
     "performers": {
       "type": "string"

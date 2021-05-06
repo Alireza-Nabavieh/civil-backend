@@ -1270,13 +1270,7 @@
                 "venue": {
                   "type": "string"
                 },
-                "address": {
-                  "type": "string"
-                },
                 "date": {
-                  "type": "string"
-                },
-                "time": {
                   "type": "string"
                 },
                 "performers": {

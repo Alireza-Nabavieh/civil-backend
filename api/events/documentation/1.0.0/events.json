@@ -588,15 +588,9 @@
           "venue": {
             "type": "string"
           },
-          "address": {
-            "type": "string"
-          },
           "date": {
             "type": "string",
             "format": "date"
-          },
-          "time": {
-            "type": "string"
           },
           "performers": {
             "type": "string"
@@ -739,15 +733,9 @@
           "venue": {
             "type": "string"
           },
-          "address": {
-            "type": "string"
-          },
           "date": {
             "type": "string",
             "format": "date"
-          },
-          "time": {
-            "type": "string"
           },
           "performers": {
             "type": "string"
